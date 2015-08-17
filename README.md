@@ -1,8 +1,10 @@
 # opentpm  
 Open source Windows TPM driver 
+
 Automatically exported from code.google.com/p/opentpm
 
 Code license
+
 GNU GPL v2 
 
 Home of the opensource TPM driver for Windows and a corresponding libtpm port!
